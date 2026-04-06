@@ -1,0 +1,5 @@
+{
+  "name": "AI Document Summarizer",
+  "description": "Upload a PDF and save its AI summary to Google Sheets via n8n workflow.",
+  "requestFramePermissions": []
+}
